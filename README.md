@@ -21,4 +21,4 @@
 
 ## 갤럭시 워치 연동 추가
 
-![Image](https://github.com/user-attachments/assets/63b5d7f2-3eec-435f-8245-ed356e051366)
+![Image](https://github.com/user-attachments/assets/81cf77ee-f60e-4817-92b4-1ced0abfa9aa)
