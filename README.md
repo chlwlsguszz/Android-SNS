@@ -5,7 +5,14 @@
 
 ##  개요
 - 한성대학교 Android SNS 
-- Kotlin
+- Kotlin, google Firebase
+
+## 주요 기능
+- 사용자 인증
+- 팔로우, 팔로워 연동
+- 게시글, 댓글, 좋아요
+- 검색 및 실시간 알림
+- Firebase DB 연동
 
 ##  이미지
 
