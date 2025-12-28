@@ -1,24 +1,58 @@
-# Han's Daily
+# Han's Daily 📱  
+Android 기반 SNS 애플리케이션
 
+---
 
-<div id="2"></div>
+## 📌 프로젝트 소개
+**Han's Daily**는 한성대학교 학생을 대상으로 한  
+Android 기반 **SNS(Social Networking Service)** 애플리케이션입니다.  
 
-##  개요
-- 한성대학교 Android SNS 
-- Kotlin, google Firebase
+사용자 간 소통을 중심으로 게시글 작성, 팔로우 관계, 실시간 알림 기능을 제공하며  
+Google Firebase를 활용해 **실시간 데이터 동기화**와 **안정적인 사용자 인증**을 구현했습니다.
 
-## 주요 기능
-- 사용자 인증
-- 팔로우, 팔로워 연동
-- 게시글, 댓글, 좋아요
-- 검색 및 실시간 알림
-- Firebase DB 연동
+---
 
-##  이미지
+## 🛠️ 기술 스택
+- **Language**: Kotlin
+- **Platform**: Android
+- **Backend / DB**: Google Firebase
+  - Firebase Authentication
+  - Firebase Realtime Database
+  - Firebase Cloud Messaging (알림)
 
+---
 
+## 🎯 주요 기능
+
+### 🔐 사용자 인증
+- Firebase Authentication 기반 회원가입 / 로그인
+- 사용자 세션 관리
+
+### 👥 소셜 기능
+- 팔로우 / 팔로워 시스템
+- 팔로우 관계 기반 피드 구성
+
+### 📝 게시글
+- 게시글 작성 / 조회
+- 댓글 기능
+- 좋아요 기능
+
+### 🔍 검색 & 알림
+- 사용자 및 게시글 검색
+- 실시간 알림 제공 (Firebase 연동)
+
+### ⌚ 갤럭시 워치 연동
+- Galaxy Watch와 연동하여 주요 알림 확인 가능
+- 모바일 앱과 데이터 연동
+
+---
+
+## 🖼️ 실행 화면
+
+### 📱 메인 앱 화면
 ![Image](https://github.com/user-attachments/assets/2690e4d0-33da-4416-a270-a9192d5136f8)
 
-## 갤럭시 워치 연동 추가
-
+### ⌚ 갤럭시 워치 연동 화면
 ![Image](https://github.com/user-attachments/assets/81cf77ee-f60e-4817-92b4-1ced0abfa9aa)
+
+---
